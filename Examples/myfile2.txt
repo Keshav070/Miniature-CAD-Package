@@ -1,0 +1,12 @@
+
+ Area of the Two-dimensional objectclass geometry.Squareis : 625.0
+The x-coordinate of the Square is:0.0 and the y coordinate of the Square is:0.0
+
+ Area of the Two-dimensional objectclass geometry.Circleis : 50.26548245743669
+The x-coordinate of the circle is:1.0 and the y coordinate of the circle is:1.0
+
+ Volume of the three dimensional objectclass geometry.Cubeis :1728.0
+The x-coordinate of the cube is:3.0, the y coordinate of the cube is:2.0 and the z coordinate of the cube is :4.0
+
+ Volume of the three dimensional objectclass geometry.Sphereis :268.082573106329
+The x-coordinate of the Sphere is:2.0, the y coordinate of the Sphere is:1.0 and the z coordinate of the Sphere is :1.0
